@@ -3,6 +3,8 @@ Another major-mode for editing Stylus file (.styl)
 
 Currently forked from the stylus-mode on MELPA; if I have free time I would rewrite the whole repo. The indentation behaviour and syntax highlight of current stylus-mode is too aweful.
 
+maybe can enhance  https://github.com/vladh/stylus-mode/blob/master/stylus-mode.el
+
 #+BEGIN_QUOTE
-Work in progress, without any gurantee.
+Work in progress, don't use.
 #+END_QUOTE
