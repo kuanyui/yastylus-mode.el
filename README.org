@@ -1,0 +1,8 @@
+* Yastylus-mode
+Another major-mode for editing Stylus file (.styl)
+
+Currently forked from the stylus-mode on MELPA; if I have free time I would rewrite the whole repo. The indentation behaviour and syntax highlight of current stylus-mode is too aweful.
+
+#+BEGIN_QUOTE
+Work in progress, without any gurantee.
+#+END_QUOTE
